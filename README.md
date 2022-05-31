@@ -9,7 +9,7 @@ Whether you're new to programming or an experienced developer, it's easy to lear
 The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers.
 
 # Use Python for…
-> Web Development: Django, Pyramid, Bottle, Tornado, Flask, web2py
+> Web Development: Django, Pyramid, Bottle, Tornado, Flask, web2py \n
 > GUI Development: tkInter, PyGObject, PyQt, PySide, Kivy, wxPython
 > Scientific and Numeric: SciPy, Pandas, IPython
 > Software Development: Buildbot, Trac, Roundup
