@@ -19,4 +19,4 @@ My free time python codes are here. Feel free to refer or get them without askin
 
 
 
-## Kavindu Kalinga [(Li)](https://www.linkedin.com/in/kalingachandrasiri/)
+## Kavindu Kalinga [[in]](https://www.linkedin.com/in/kalingachandrasiri/)
